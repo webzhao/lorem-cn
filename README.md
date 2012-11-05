@@ -1,9 +1,9 @@
 lorem-cn: A ramdom Chinese characters generator
 ========
 
-Lorem ipsum generator for Chinese language in Javascript.
+Lorem ipsum generator for Chinese language in Javascript. [See the demo](http://webzhao.github.com/lorem-cn/)
 
-中文版乱数假文生成器，Javascript实现。
+中文版乱数假文生成器，Javascript实现。[查看Demo](http://webzhao.github.com/lorem-cn/)
 
 ## Usage 使用方法
 
